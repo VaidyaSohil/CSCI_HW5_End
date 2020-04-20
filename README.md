@@ -1,5 +1,6 @@
-Alongside [HW4(Reviews)](https://github.com/VaidyaSohil/csci3916_hw4)
-Heroku [https://svaidya-csci3916-hw3-updated.herokuapp.com/]
+Alongside [HW4(Reviews)](https://github.com/VaidyaSohil/csci3916_hw4).
+Heroku [https://svaidya-csci3916-hw3-updated.herokuapp.com/].
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
